@@ -1,4 +1,4 @@
-# 🎨 Temporal Personal Fashion AI System
+# 🎨 Fashion Accessory Recommender AI System
 
 ## Advanced Accessory Recommendation Engine with Multi-Component Integration
 
