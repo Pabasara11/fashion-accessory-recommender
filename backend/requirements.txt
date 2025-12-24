@@ -8,9 +8,11 @@ Flask-CORS==4.0.0
 Werkzeug==2.3.0
 
 # Deep Learning Frameworks
-torch==2.0.1
-torchvision==0.15.2
-torchaudio==2.0.2
+# Install PyTorch separately first, then run this file
+torch
+torchvision
+torchaudio
+
 
 # Transformers & Pre-trained Models
 transformers==4.30.0
@@ -20,7 +22,7 @@ huggingface-hub==0.16.4
 # Computer Vision
 opencv-python==4.8.0.74
 Pillow==10.0.0
-scikit-image==0.21.0
+#scikit-image==0.21.0
 
 # Data Processing & Analysis
 numpy==1.24.3
